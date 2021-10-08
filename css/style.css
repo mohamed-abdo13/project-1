@@ -164,6 +164,7 @@ section.hero .up-btn{
 }
 section.hero .up-btn.show{
     opacity: 1;
+    z-index: 999;
 }
 /*========== hero section ===========*/
 
